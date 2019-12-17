@@ -8,7 +8,7 @@ The CNN model is bult using relu and softmax activation functions.The input shap
   
   ![GitHub Logo](/screenshots/accuracy.png)
   
-  #The trained model was used with flask webframework for realtime character recognization.
+  The trained model was used with flask webframework for realtime character recognization.
   ![GitHub Logo](/screenshots/ka.png)
   ![GitHub Logo](/screenshots/anga.png)
   
